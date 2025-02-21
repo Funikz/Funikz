@@ -4,7 +4,7 @@
 <h3 align="left">Programming</h3>
 <p align="left">
   <a href="">
-    <img src="https://skillicons.dev/icons?i=git,cs,dart,unity,flutter," />
+    <img src="https://skillicons.dev/icons?i=dart,flutter,git,cs,unity," />
   </a>
 </p>
 
