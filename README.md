@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Zidan (Funikz)</h1>
-<p align="center">A passionate Unity Game Developer from Indonesia <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Indonesia.svg/1200px-Flag_of_Indonesia.svg.png" alt="Indonesia" width="25" height="20"/></p>
+<p align="center">A passionate Flutter and Unity Game Developer from Indonesia <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Indonesia.svg/1200px-Flag_of_Indonesia.svg.png" alt="Indonesia" width="25" height="20"/></p>
 
 <h3 align="left">Programming</h3>
 <p align="left">
